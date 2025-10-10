@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fake GPS - Simula tu ubicación fácilmente</title>
+  <style>
+    :root {
+      --primary: #3B2A82;
+      --secondary: #E94E77;
+      --light: #f9f9f9;
+      --text: #333;
+    }
+ 
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+ 
+    body {
+      font-family: "Poppins", sans-serif;
+      color: var(--text);
+      background-color: var(--light);
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+ 
+    header {
+      background: var(--primary);
+      color: white;
+      text-align: center;
+      padding: 5rem 2rem;
+      background-image: radial-gradient(circle at top right, #5E45B5, #3B2A82);
+      position: relative;
+      overflow: hidden;
+    }
+ 
+    header::after {
+      content: "";
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: url('https://www.transparenttextures.com/patterns/cubes.png');
+      opacity: 0.1;
+      pointer-events: none;
+    }
+ 
+    header h1 {
+      font-size: 2.8rem;
+      margin-bottom: 1rem;
+      animation: fadeInDown 1.2s ease;
+    }
+ 
+    header p {
+      font-size: 1.2rem;
+      opacity: 0.9;
+      animation: fadeInUp 1.2s ease;
+    }
+ 
+    .cta {
+      margin-top: 1.8rem;
+      display: inline-block;
+      padding: 0.9rem 1.8rem;
+      background: var(--secondary);
+      color: white;
+      border-radius: 10px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: 0.3s;
+      animation: fadeInUp 1.5s ease;
+    }
+ 
+    .cta:hover {
+      background: #ff5e87;
+      transform: scale(1.05);
+    }
+ 
+    section {
+      padding: 3rem 2rem;
+      max-width: 1000px;
+      margin: auto;
+      opacity: 0;
+      transform: translateY(40px);
+      transition: all 0.8s ease-out;
+    }
+ 
+    section.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+ 
+    h2 {
+      text-align: center;
+      color: var(--primary);
+      margin-bottom: 1rem;
+      font-size: 2rem;
+    }
+ 
+    p {
+      text-align: center;
+      max-width: 800px;
+      margin: auto;
+      font-size: 1rem;
+    }
+ 
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 2rem;
+      margin-top: 2rem;
+    }
+ 
+    .feature {
+      background: white;
+      padding: 2rem;
+      border-radius: 1rem;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      transition: 0.3s;
+    }
+ 
+    .feature:hover {
+      transform: translateY(-5px);
+    }
+ 
+    .feature img {
+      width: 80px;
+      margin-bottom: 1rem;
+      transition: transform 0.4s ease;
+    }
+ 
+    .feature:hover img {
+      transform: scale(1.1);
+    }
+ 
+    .feature h3 {
+      color: var(--primary);
+      margin-bottom: 0.5rem;
+    }
+ 
+    .gallery {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      justify-content: center;
+      margin-top: 2rem;
+    }
+ 
+    .gallery img {
+      width: 300px;
+      border-radius: 1rem;
+      box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+      transition: transform 0.3s ease;
+    }
+ 
+    .gallery img:hover {
+      transform: scale(1.05);
+    }
+ 
+    footer {
+      text-align: center;
+      background: var(--primary);
+      color: white;
+      padding: 2rem 1rem;
+      font-size: 0.9rem;
+      margin-top: 2rem;
+    }
+ 
+    footer a {
+      color: #ffd6e1;
+      text-decoration: none;
+    }
+ 
+    footer a:hover {
+      text-decoration: underline;
+    }
+ 
+    /* Animaciones clave */
+    @keyframes fadeInDown {
+      from {
+        opacity: 0;
+        transform: translateY(-30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+ 
+    @keyframes fadeInUp {
+      from {
+        opacity: 0;
+        transform: translateY(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+  </style>
+</head>
+<body>
+ 
+  <header>
+    <h1>Fake GPS</h1>
+    <p>Simula tu ubicación de forma fácil, rápida y segura.</p>
+    <a href="https://play.google.com/store/apps/details?id=com.ccervantesb.fakegps" target="_blank" class="cta">Descargar ahora</a>
+  </header>
+ 
+  <section>
+    <h2>🌍 ¿Qué es Fake GPS?</h2>
+    <p>
+      Fake GPS te permite simular tu ubicación en cualquier parte del mundo con un solo toque.
+    </p>
+ 
+    <div class="features">
+      <div class="feature">
+        <img src="https://cdn-icons-png.flaticon.com/512/684/684908.png" alt="Ubicación simulada">
+        <h3>Ubicación simulada</h3>
+        <p>Selecciona cualquier punto del mapa y cambia tu posición GPS al instante.</p>
+      </div>
+ 
+      <div class="feature">
+        <img src="./images/lock.png" alt="Privacidad">
+        <h3>Privacidad garantizada</h3>
+        <p>Tu ubicación real nunca se comparte ni almacena. Solo tú tienes el control.</p>
+      </div>
+ 
+      <div class="feature">
+        <img src="./images/ui.png" alt="Interfaz moderna">
+        <h3>Interfaz moderna</h3>
+        <p>Diseñada para ofrecer una experiencia intuitiva y agradable.</p>
+      </div>
+    </div>
+  </section>
+ 
+  <section>
+    <h2>📱 Galería</h2>
+    <p>Así luce Fake GPS en acción:</p>
+    <div class="gallery">
+      <img src="https://play-lh.googleusercontent.com/V17ypbDX2L1jhkvFizGrM_GL1IVROHGWWXJI8koKB5QvliA7QRJXQfVl7At53-F0zSjsan7-7E6cp9qtIhdq=w5120-h2880-rw" alt="Pantalla 1">
+      <img src="https://play-lh.googleusercontent.com/TqMOPCB5uJ7s0BoAvmDDTyOl7X1dH4i-ym4788cpKd3xeVI1ZL5u9asum1YumXgsUi4U1pE7TGw5YVbDSyHx=w2560-h1440-rw" alt="Pantalla 2">
+      <img src="https://play-lh.googleusercontent.com/O6_OMXnLG-SHxLRthJa7MUhwAn5VP_euOeMWW_szWcuIL8OEtroBdcvp8vyeBkIEAPm2c-YizZVBxGElnT8u=w2560-h1440-rw" alt="Pantalla 3">
+    </div>
+  </section>
+ 
+  <section>
+    <h2>🔒 Aviso de Privacidad</h2>
+    <p>
+      Consulta nuestro <a href="aviso_privacidad.html" target="_blank">Aviso de Privacidad</a> para conocer cómo protegemos tu información.
+    </p>
+  </section>
+ 
+  <footer>
+    <p>© 2025 Fake GPS – Todos los derechos reservados.</p>
+    <p>Desarrollado por <a href="#">Cesar Cervantes</a></p>
+  </footer>
+ 
+  <script>
+    // Animación de aparición al hacer scroll
+    const sections = document.querySelectorAll("section");
+    const revealSections = () => {
+      sections.forEach(sec => {
+        const top = sec.getBoundingClientRect().top;
+        if (top < window.innerHeight - 100) {
+          sec.classList.add("visible");
+        }
+      });
+    };
+    window.addEventListener("scroll", revealSections);
+    revealSections(); // Ejecutar al cargar
+  </script>
+ 
+</body>
+</html>
+ 
