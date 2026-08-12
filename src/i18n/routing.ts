@@ -25,5 +25,5 @@ export const routing = defineRouting({
     "el",
     "he",
   ],
-  defaultLocale: "es",
+  defaultLocale: "en",
 });

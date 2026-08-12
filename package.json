@@ -9,19 +9,19 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@ant-design/icons": "^5.6.1",
-    "antd": "^5.29.3",
+    "@ant-design/icons": "5.6.1",
+    "antd": "5.29.3",
     "next": "16.3.0",
-    "next-intl": "^4.13.5",
+    "next-intl": "^4.13.6",
     "react": "19.2.8",
     "react-dom": "19.2.8"
   },
   "devDependencies": {
-    "@types/node": "^20",
-    "@types/react": "^19",
-    "@types/react-dom": "^19",
-    "eslint": "^9",
+    "@types/node": "^26.2.0",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.4",
+    "eslint": "^10.8.1",
     "eslint-config-next": "16.3.0",
-    "typescript": "^5"
+    "typescript": "^7.0.2"
   }
 }
