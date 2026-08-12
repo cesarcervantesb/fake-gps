@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — Konumunuzu kolayca simüle edin",
+    "description": "Konumunuzu kolayca, hızlı ve güvenli bir şekilde simüle edin. Fake GPS'i indirin ve dünyanın herhangi bir yerinden GPS konumunuzu anında değiştirin."
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "Konumunuzu kolayca, hızlı ve güvenli bir şekilde simüle edin.",
+    "download": "Şimdi indir"
+  },
+  "features": {
+    "heading": "Fake GPS nedir?",
+    "description": "Fake GPS, tek bir dokunuşla dünyanın herhangi bir yerinde konumunuzu sahte göstermenize olanak tanır.",
+    "simulated_location": "Simüle edilmiş konum",
+    "simulated_location_desc": "Haritada herhangi bir noktayı seçin ve GPS konumunuzu anında değiştirin.",
+    "privacy_guaranteed": "Garantili gizlilik",
+    "privacy_guaranteed_desc": "Gerçek konumunuz asla paylaşılmaz veya saklanmaz. Kontrol yalnızca sizde.",
+    "modern_interface": "Modern arayüz",
+    "modern_interface_desc": "Sezgisel ve keyifli bir deneyim sunmak için tasarlandı."
+  },
+  "gallery": {
+    "heading": "Galeri",
+    "description": "Fake GPS'in çalışırken görünümü şöyledir:"
+  },
+  "privacy": {
+    "heading": "Gizlilik Bildirimi",
+    "description": "Bilgilerinizi nasıl koruduğumuzu öğrenmek için Gizlilik Bildirimimizi inceleyin.",
+    "link": "Gizlilik Bildirimi"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – Tüm hakları saklıdır.",
+    "developer": "Cesar Cervantes tarafından geliştirildi"
+  },
+  "privacy_page": {
+    "title": "Gizlilik Bildirimi — Fake GPS",
+    "heading": "Gizlilik Bildirimi",
+    "last_updated": "Son güncelleme: October 2025",
+    "section_1_title": "1. Kişisel verilerin işlenmesinden sorumlu",
+    "section_1_text": "Fake GPS uygulamasının (bundan sonra \"Uygulama\" olarak anılacaktır) geliştiricisi, özel taraflarca tutulan kişisel verilerin korunmasına ilişkin Federal Yasa ve ilgili yönetmeliklerine uyum içinde, bunun aracılığıyla toplanan kişisel verilerin kullanımından, yönetiminden ve korunmasından sorumludur.",
+    "section_2_title": "2. Toplanan kişisel veriler",
+    "section_2_text_1": "Uygulama, ad, e-posta, telefon numarası veya gerçek konum gibi kullanıcının kişisel bilgilerini toplamaz, saklamaz veya paylaşmaz.",
+    "section_2_text_2": "Çalışma sırasında uygulama, temel amacını yerine getirmek için sahte konum izinleri talep edebilir. Bu veriler yalnızca kullanıcının cihazında yerel olarak kullanılır.",
+    "section_3_title": "3. Veri işleme amacı",
+    "section_3_text_1": "Talep edilen izinler yalnızca şu amaçlarla kullanılır:",
+    "section_3_item_1": "Geliştirme, test veya demo amaçları için coğrafi konumları simüle etmek.",
+    "section_3_item_2": "Cihaz ortamındaki kullanıcı deneyimini iyileştirmek.",
+    "section_3_text_2": "Veriler hiçbir zaman kullanıcıyı tanımlamak, izlemek veya gözetlemek için kullanılmaz.",
+    "section_4_title": "4. Kişisel verilerin aktarılması",
+    "section_4_text": "Uygulama, bilgileri üçüncü taraflara aktarmaz veya satmaz. Tüm bilgiler cihaz içinde ve kullanıcının kontrolü altında kalır.",
+    "section_5_title": "5. Üçüncü taraf hizmetlerinin kullanımı",
+    "section_5_text": "Harici hizmetleri (örneğin API'ler veya harita SDK'ları) entegre ederseniz, bu hizmetlerin kendi gizlilik bildirimleri olabilir. Kullanıcı, her sağlayıcının ilgili politikalarını incelemeli ve kabul etmelidir.",
+    "section_6_title": "6. Güvenlik önlemleri",
+    "section_6_text": "Yerel verileri korumak ve cihaz içindeki bilgilere yetkisiz erişimi veya kötüye kullanımı önlemek için teknik ve idari önlemler uygulanır.",
+    "section_7_title": "7. ARCO Hakları (Erişim, Düzeltme, İptal ve İtiraz)",
+    "section_7_text": "Uygulama kişisel verileri toplamadığı veya saklamadığı için bu hakların kullanımı söz konusu değildir. Ancak kullanıcı, oluşturulan tüm yerel bilgileri silerek uygulamayı istediği zaman kaldırabilir.",
+    "section_8_title": "8. Gizlilik Bildirimindeki değişiklikler",
+    "section_8_text": "Geliştirici, uygulamadaki yasal veya işlevsel değişikliklere uyum sağlamak için bu bildirimi değiştirebilir. Güncellemeler uygulama içinde veya resmi yayınında bulunabilir olacaktır.",
+    "section_9_title": "9. İletişim",
+    "section_9_text": "Bu bildirimle ilgili sorularınız veya yorumlarınız için kullanıcı aşağıdaki e-posta ile iletişime geçebilir:",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}

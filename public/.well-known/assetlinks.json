@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls",
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.ccervantesb.fakegps",
+      "sha256_cert_fingerprints": [
+        "7A:F9:6D:50:6F:CC:B5:90:EB:91:4E:BC:65:9A:2F:77:1F:85:E3:9C:8F:5B:4F:8E:C8:BA:B2:24:AE:A6:DE:60"
+      ]
+    }
+  }
+]

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — Simule sua localização facilmente",
+    "description": "Simule sua localização com facilidade, rapidez e segurança. Baixe o Fake GPS e altere sua localização GPS instantaneamente de qualquer lugar do mundo."
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "Simule sua localização com facilidade, rapidez e segurança.",
+    "download": "Baixar agora"
+  },
+  "features": {
+    "heading": "O que é o Fake GPS?",
+    "description": "O Fake GPS permite que você falsifique sua localização em qualquer lugar do mundo com um único toque.",
+    "simulated_location": "Localização simulada",
+    "simulated_location_desc": "Selecione qualquer ponto no mapa e altere sua posição GPS instantaneamente.",
+    "privacy_guaranteed": "Privacidade garantida",
+    "privacy_guaranteed_desc": "Sua localização real nunca é compartilhada ou armazenada. Apenas você tem o controle.",
+    "modern_interface": "Interface moderna",
+    "modern_interface_desc": "Projetado para oferecer uma experiência intuitiva e agradável."
+  },
+  "gallery": {
+    "heading": "Galeria",
+    "description": "É assim que o Fake GPS se parece em ação:"
+  },
+  "privacy": {
+    "heading": "Aviso de Privacidade",
+    "description": "Consulte o nosso Aviso de Privacidade para saber como protegemos suas informações.",
+    "link": "Aviso de Privacidade"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – Todos os direitos reservados.",
+    "developer": "Desenvolvido por Cesar Cervantes"
+  },
+  "privacy_page": {
+    "title": "Aviso de Privacidade — Fake GPS",
+    "heading": "Aviso de Privacidade",
+    "last_updated": "Última atualização: outubro de 2025",
+    "section_1_title": "1. Responsável pelo tratamento de dados pessoais",
+    "section_1_text": "O desenvolvedor do aplicativo Fake GPS (doravante denominado \"o Aplicativo\") é responsável pelo uso, gerenciamento e proteção dos dados pessoais coletados por meio dele, em conformidade com a Lei Federal de Proteção de Dados Pessoais Mantidos por Particulares e seus regulamentos.",
+    "section_2_title": "2. Dados pessoais coletados",
+    "section_2_text_1": "O Aplicativo não coleta, armazena ou compartilha as informações pessoais do usuário, como nome, e-mail, número de telefone ou localização real.",
+    "section_2_text_2": "Durante a operação, o aplicativo pode solicitar permissões de localização simulada para cumprir sua finalidade principal. Esses dados são usados apenas localmente no dispositivo do usuário.",
+    "section_3_title": "3. Finalidade do tratamento de dados",
+    "section_3_text_1": "As permissões solicitadas são usadas exclusivamente para:",
+    "section_3_item_1": "Simular localizações geográficas para fins de desenvolvimento, teste ou demonstração.",
+    "section_3_item_2": "Melhorar a experiência do usuário no ambiente do dispositivo.",
+    "section_3_text_2": "Em nenhum momento os dados são usados para identificar, rastrear ou monitorar o usuário.",
+    "section_4_title": "4. Transferência de dados pessoais",
+    "section_4_text": "O Aplicativo não transfere ou vende informações a terceiros. Todas as informações permanecem no dispositivo e sob o controle do usuário.",
+    "section_5_title": "5. Uso de serviços de terceiros",
+    "section_5_text": "Se você integrar serviços externos (por exemplo, APIs ou SDKs de mapas), esses serviços podem ter seus próprios avisos de privacidade. O usuário deve consultar e aceitar as políticas correspondentes de cada provedor.",
+    "section_6_title": "6. Medidas de segurança",
+    "section_6_text": "Medidas técnicas e administrativas são implementadas para proteger os dados locais e evitar acesso não autorizado ou uso indevido de informações no dispositivo.",
+    "section_7_title": "7. Direitos ARCO (Acesso, Retificação, Cancelamento e Oposição)",
+    "section_7_text": "Como o Aplicativo não coleta nem armazena dados pessoais, o exercício desses direitos não se aplica. No entanto, o usuário pode desinstalar o aplicativo a qualquer momento, excluindo todas as informações locais geradas.",
+    "section_8_title": "8. Alterações ao Aviso de Privacidade",
+    "section_8_text": "O desenvolvedor pode modificar este aviso para adaptá-lo a mudanças legais ou funcionais do aplicativo. As atualizações estarão disponíveis no aplicativo ou em sua publicação oficial.",
+    "section_9_title": "9. Contato",
+    "section_9_text": "Para quaisquer dúvidas ou comentários sobre este aviso, o usuário pode entrar em contato pelo e-mail a seguir:",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}

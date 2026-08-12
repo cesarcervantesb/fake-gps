@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — Simulate your location easily",
+    "description": "Simulate your location easily, quickly and safely. Download Fake GPS and change your GPS location instantly from anywhere in the world."
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "Simulate your location easily, quickly and safely.",
+    "download": "Download now"
+  },
+  "features": {
+    "heading": "What is Fake GPS?",
+    "description": "Fake GPS allows you to fake your location anywhere in the world with a single tap.",
+    "simulated_location": "Simulated location",
+    "simulated_location_desc": "Select any point on the map and change your GPS position instantly.",
+    "privacy_guaranteed": "Guaranteed privacy",
+    "privacy_guaranteed_desc": "Your real location is never shared or stored. Only you have control.",
+    "modern_interface": "Modern interface",
+    "modern_interface_desc": "Designed to offer an intuitive and pleasant experience."
+  },
+  "gallery": {
+    "heading": "Gallery",
+    "description": "This is what Fake GPS looks like in action:"
+  },
+  "privacy": {
+    "heading": "Privacy Notice",
+    "description": "Please see our Privacy Notice to learn how we protect your information.",
+    "link": "Privacy Notice"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – All rights reserved.",
+    "developer": "Developed by Cesar Cervantes"
+  },
+  "privacy_page": {
+    "title": "Privacy Notice — Fake GPS",
+    "heading": "Privacy Notice",
+    "last_updated": "Last update: October 2025",
+    "section_1_title": "1. Responsible for the processing of personal data",
+    "section_1_text": "The developer of the Fake GPS application (hereinafter \"the Application\") is responsible for the use, management and protection of the personal data collected through it, in compliance with the Federal Law on Protection of Personal Data Held by Private Parties and its regulations.",
+    "section_2_title": "2. Personal data collected",
+    "section_2_text_1": "The Application does not collect, store or share the user's personal information, such as name, email, phone number or real location.",
+    "section_2_text_2": "During operation, the application may request mock location permissions to fulfill its primary purpose. This data is only used locally on the user's device.",
+    "section_3_title": "3. Purpose of data processing",
+    "section_3_text_1": "The requested permissions are used exclusively to:",
+    "section_3_item_1": "Simulate geographic locations for development, testing, or demonstration purposes.",
+    "section_3_item_2": "Improve the user experience within the device environment.",
+    "section_3_text_2": "At no time is the data used to identify, track or monitor the user.",
+    "section_4_title": "4. Transfer of personal data",
+    "section_4_text": "The Application does not transfer or sell information to third parties. All information remains within the device and under the user's control.",
+    "section_5_title": "5. Use of third party services",
+    "section_5_text": "If you integrate external services (for example, APIs or map SDKs), these services may have their own privacy notices. The user must consult and accept the corresponding policies of each provider.",
+    "section_6_title": "6. Security measures",
+    "section_6_text": "Technical and administrative measures are implemented to protect local data and prevent unauthorized access or misuse of information within the device.",
+    "section_7_title": "7. ARCO Rights (Access, Rectification, Cancellation and Opposition)",
+    "section_7_text": "Since the Application does not collect or store personal data, the exercise of these rights does not apply. However, the user can uninstall the application at any time, deleting all the local information generated.",
+    "section_8_title": "8. Changes to the Privacy Notice",
+    "section_8_text": "The developer may modify this notice to adapt it to legal or functional changes to the application. Updates will be available within the application or in its official publication.",
+    "section_9_title": "9. Contact",
+    "section_9_text": "For any questions or comments about this notice, the user can contact the following email:",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}

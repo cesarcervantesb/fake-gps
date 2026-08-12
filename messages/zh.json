@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — 轻松模拟您的位置",
+    "description": "轻松、快速且安全地模拟您的位置。下载 Fake GPS，即可从世界任何地方即时更改您的 GPS 位置。"
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "轻松、快速且安全地模拟您的位置。",
+    "download": "立即下载"
+  },
+  "features": {
+    "heading": "什么是 Fake GPS？",
+    "description": "Fake GPS 只需轻触一下，即可让您在世界任何地方伪造您的位置。",
+    "simulated_location": "模拟位置",
+    "simulated_location_desc": "在地图上选择任意点，即可即时更改您的 GPS 位置。",
+    "privacy_guaranteed": "隐私保障",
+    "privacy_guaranteed_desc": "您的真实位置绝不会被共享或存储。只有您自己掌控。",
+    "modern_interface": "现代化界面",
+    "modern_interface_desc": "旨在提供直观且愉悦的体验。"
+  },
+  "gallery": {
+    "heading": "图库",
+    "description": "以下是 Fake GPS 实际使用时的样子："
+  },
+  "privacy": {
+    "heading": "隐私声明",
+    "description": "请查看我们的隐私声明，了解我们如何保护您的信息。",
+    "link": "隐私声明"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – 保留所有权利。",
+    "developer": "由 Cesar Cervantes 开发"
+  },
+  "privacy_page": {
+    "title": "隐私声明 — Fake GPS",
+    "heading": "隐私声明",
+    "last_updated": "最后更新：2025 年 10 月",
+    "section_1_title": "1. 个人数据处理责任人",
+    "section_1_text": "Fake GPS 应用程序（以下简称“本应用”）的开发者负责使用、管理和保护通过本应用收集的个人信息，并遵守《联邦保护私人持有个人数据法》及其条例。",
+    "section_2_title": "2. 收集的个人数据",
+    "section_2_text_1": "本应用不会收集、存储或共享用户的个人信息，例如姓名、电子邮件、电话号码或真实位置。",
+    "section_2_text_2": "在运行过程中，应用可能会请求模拟位置权限以履行其主要用途。这些数据仅在用户设备的本地使用。",
+    "section_3_title": "3. 数据处理的目的",
+    "section_3_text_1": "所请求的权限仅用于：",
+    "section_3_item_1": "为开发、测试或演示目的模拟地理位置。",
+    "section_3_item_2": "改善设备环境中的用户体验。",
+    "section_3_text_2": "绝不会将数据用于识别、跟踪或监视用户。",
+    "section_4_title": "4. 个人数据的传输",
+    "section_4_text": "本应用不会向第三方传输或出售信息。所有信息均保留在设备内，并由用户掌控。",
+    "section_5_title": "5. 第三方服务的使用",
+    "section_5_text": "如果您集成外部服务（例如 API 或地图 SDK），这些服务可能拥有各自的隐私声明。用户必须查阅并接受各提供方的相应政策。",
+    "section_6_title": "6. 安全措施",
+    "section_6_text": "已实施技术和行政措施，以保护本地数据并防止设备内未经授权的访问或信息滥用。",
+    "section_7_title": "7. ARCO 权利（访问、更正、取消和反对）",
+    "section_7_text": "由于本应用不收集或存储个人数据，这些权利并不适用。但用户可以随时卸载应用，删除所有本地生成的信息。",
+    "section_8_title": "8. 隐私声明的变更",
+    "section_8_text": "开发者可修改本声明，以适应应用的法律或功能变更。更新内容将在应用内或其官方发布中提供。",
+    "section_9_title": "9. 联系方式",
+    "section_9_text": "如对本声明有任何疑问或意见，用户可通过以下电子邮件联系：",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}

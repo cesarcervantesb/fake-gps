@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — Symuluj swoją lokalizację łatwo",
+    "description": "Symuluj swoją lokalizację łatwo, szybko i bezpiecznie. Pobierz Fake GPS i zmień swoją lokalizację GPS natychmiast z dowolnego miejsca na świecie."
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "Symuluj swoją lokalizację łatwo, szybko i bezpiecznie.",
+    "download": "Pobierz teraz"
+  },
+  "features": {
+    "heading": "Czym jest Fake GPS?",
+    "description": "Fake GPS pozwala na sfałszowanie swojej lokalizacji w dowolnym miejscu na świecie jednym dotknięciem.",
+    "simulated_location": "Symulowana lokalizacja",
+    "simulated_location_desc": "Wybierz dowolny punkt na mapie i zmień swoją pozycję GPS natychmiast.",
+    "privacy_guaranteed": "Gwarantowana prywatność",
+    "privacy_guaranteed_desc": "Twoja prawdziwa lokalizacja nigdy nie jest udostępniana ani przechowywana. Tylko Ty masz kontrolę.",
+    "modern_interface": "Nowoczesny interfejs",
+    "modern_interface_desc": "Zaprojektowany, aby zapewnić intuicyjne i przyjemne doświadczenie."
+  },
+  "gallery": {
+    "heading": "Galeria",
+    "description": "Tak wygląda Fake GPS w działaniu:"
+  },
+  "privacy": {
+    "heading": "Informacja o prywatności",
+    "description": "Zapoznaj się z naszą Informacją o prywatności, aby dowiedzieć się, jak chronimy Twoje informacje.",
+    "link": "Informacja o prywatności"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – Wszelkie prawa zastrzeżone.",
+    "developer": "Opracowane przez Cesar Cervantes"
+  },
+  "privacy_page": {
+    "title": "Informacja o prywatności — Fake GPS",
+    "heading": "Informacja o prywatności",
+    "last_updated": "Ostatnia aktualizacja: październik 2025",
+    "section_1_title": "1. Podmiot odpowiedzialny za przetwarzanie danych osobowych",
+    "section_1_text": "Deweloper aplikacji Fake GPS (zwanej dalej „Aplikacją”) odpowiada za wykorzystanie, zarządzanie i ochronę danych osobowych zbieranych za jej pośrednictwem, zgodnie z Federalną Ustawą o Ochronie Danych Osobowych Przetwarzanych przez Podmioty Prywatne oraz jej przepisami wykonawczymi.",
+    "section_2_title": "2. Gromadzone dane osobowe",
+    "section_2_text_1": "Aplikacja nie gromadzi, nie przechowuje ani nie udostępnia danych osobowych użytkownika, takich jak imię, adres e-mail, numer telefonu czy prawdziwa lokalizacja.",
+    "section_2_text_2": "Podczas działania aplikacja może prosić o uprawnienia do fałszywej lokalizacji w celu spełnienia swojego głównego przeznaczenia. Te dane są wykorzystywane wyłącznie lokalnie na urządzeniu użytkownika.",
+    "section_3_title": "3. Cel przetwarzania danych",
+    "section_3_text_1": "Żądane uprawnienia są wykorzystywane wyłącznie do:",
+    "section_3_item_1": "Symulowania lokalizacji geograficznych w celach rozwojowych, testowych lub demonstracyjnych.",
+    "section_3_item_2": "Ulepszania doświadczenia użytkownika w środowisku urządzenia.",
+    "section_3_text_2": "Dane nigdy nie są wykorzystywane do identyfikowania, śledzenia ani monitorowania użytkownika.",
+    "section_4_title": "4. Przekazywanie danych osobowych",
+    "section_4_text": "Aplikacja nie przekazuje ani nie sprzedaje informacji osobom trzecim. Cała informacja pozostaje na urządzeniu i pod kontrolą użytkownika.",
+    "section_5_title": "5. Korzystanie z usług stron trzecich",
+    "section_5_text": "Jeśli zintegrujesz usługi zewnętrzne (na przykład interfejsy API lub zestawy SDK map), usługi te mogą mieć własne informacje o prywatności. Użytkownik musi zapoznać się z nimi i zaakceptować odpowiednie zasady każdego dostawcy.",
+    "section_6_title": "6. Środki bezpieczeństwa",
+    "section_6_text": "Wdraża się środki techniczne i administracyjne w celu ochrony danych lokalnych oraz zapobiegania nieautoryzowanemu dostępowi lub niewłaściwemu wykorzystaniu informacji na urządzeniu.",
+    "section_7_title": "7. Prawa ARCO (Dostęp, Sprostowanie, Usunięcie i Sprzeciw)",
+    "section_7_text": "Ponieważ Aplikacja nie gromadzi ani nie przechowuje danych osobowych, wykonywanie tych praw nie ma zastosowania. Użytkownik może jednak w dowolnym momencie odinstalować aplikację, co spowoduje usunięcie wszystkich wygenerowanych lokalnych informacji.",
+    "section_8_title": "8. Zmiany w Informacji o prywatności",
+    "section_8_text": "Deweloper może zmodyfikować tę informację, aby dostosować ją do zmian prawnych lub funkcjonalnych w aplikacji. Aktualizacje będą dostępne w aplikacji lub w jej oficjalnej publikacji.",
+    "section_9_title": "9. Kontakt",
+    "section_9_text": "W przypadku pytań lub uwag dotyczących tej informacji użytkownik może skontaktować się pod następującym adresem e-mail:",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}

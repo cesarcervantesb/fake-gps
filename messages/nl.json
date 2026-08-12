@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — Simuleer eenvoudig je locatie",
+    "description": "Simuleer je locatie eenvoudig, snel en veilig. Download Fake GPS en verander je GPS-locatie direct vanuit elke plek ter wereld."
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "Simuleer je locatie eenvoudig, snel en veilig.",
+    "download": "Download nu"
+  },
+  "features": {
+    "heading": "Wat is Fake GPS?",
+    "description": "Met Fake GPS kun je met één tik op de knop je locatie overal ter wereld faken.",
+    "simulated_location": "Gesimuleerde locatie",
+    "simulated_location_desc": "Selecteer elk punt op de kaart en verander je GPS-positie direct.",
+    "privacy_guaranteed": "Gegarandeerde privacy",
+    "privacy_guaranteed_desc": "Je echte locatie wordt nooit gedeeld of opgeslagen. Jij hebt de controle.",
+    "modern_interface": "Moderne interface",
+    "modern_interface_desc": "Ontworpen om een intuïtieve en prettige ervaring te bieden."
+  },
+  "gallery": {
+    "heading": "Galerij",
+    "description": "Dit is hoe Fake GPS er in actie uitziet:"
+  },
+  "privacy": {
+    "heading": "Privacyverklaring",
+    "description": "Lees onze Privacyverklaring om te weten hoe we je informatie beschermen.",
+    "link": "Privacyverklaring"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – Alle rechten voorbehouden.",
+    "developer": "Ontwikkeld door Cesar Cervantes"
+  },
+  "privacy_page": {
+    "title": "Privacyverklaring — Fake GPS",
+    "heading": "Privacyverklaring",
+    "last_updated": "Laatste update: oktober 2025",
+    "section_1_title": "1. Verantwoordelijke voor de verwerking van persoonsgegevens",
+    "section_1_text": "De ontwikkelaar van de applicatie Fake GPS (hierna \"de Applicatie\" genoemd) is verantwoordelijk voor het gebruik, beheer en de bescherming van de persoonsgegevens die daarmee worden verzameld, in overeenstemming met de federale wet op de bescherming van persoonsgegevens die door particuliere partijen worden verwerkt en de bijbehorende regelgeving.",
+    "section_2_title": "2. Verzamelde persoonsgegevens",
+    "section_2_text_1": "De Applicatie verzamelt, slaat of deelt geen persoonlijke informatie van de gebruiker, zoals naam, e-mail, telefoonnummer of echte locatie.",
+    "section_2_text_2": "Tijdens het gebruik kan de applicatie toestemming vragen voor een neplocatie om aan haar hoofddoel te voldoen. Deze gegevens worden alleen lokaal op het apparaat van de gebruiker gebruikt.",
+    "section_3_title": "3. Doel van de gegevensverwerking",
+    "section_3_text_1": "De gevraagde machtigingen worden uitsluitend gebruikt voor:",
+    "section_3_item_1": "Het simuleren van geografische locaties voor ontwikkelings-, test- of demonstratiedoeleinden.",
+    "section_3_item_2": "Het verbeteren van de gebruikerservaring binnen de apparaatomgeving.",
+    "section_3_text_2": "De gegevens worden op geen enkel moment gebruikt om de gebruiker te identificeren, te volgen of te controleren.",
+    "section_4_title": "4. Verstrekking van persoonsgegevens",
+    "section_4_text": "De Applicatie verstrekt geen informatie aan of verkoopt deze niet aan derden. Alle informatie blijft op het apparaat en onder controle van de gebruiker.",
+    "section_5_title": "5. Gebruik van diensten van derden",
+    "section_5_text": "Als je externe diensten integreert (bijvoorbeeld API's of kaart-SDK's), kunnen deze diensten hun eigen privacyverklaringen hebben. De gebruiker moet de desbetreffende beleidsregels van elke aanbieder raadplegen en accepteren.",
+    "section_6_title": "6. Beveiligingsmaatregelen",
+    "section_6_text": "Er worden technische en administratieve maatregelen genomen om lokale gegevens te beschermen en ongeautoriseerde toegang of misbruik van informatie op het apparaat te voorkomen.",
+    "section_7_title": "7. ARCO-rechten (Toegang, Rectificatie, Annulering en Oppositie)",
+    "section_7_text": "Aangezien de Applicatie geen persoonsgegevens verzamelt of opslaat, is de uitoefening van deze rechten niet van toepassing. De gebruiker kan de applicatie echter op elk moment verwijderen, waarmee alle gegenereerde lokale informatie wordt gewist.",
+    "section_8_title": "8. Wijzigingen in de Privacyverklaring",
+    "section_8_text": "De ontwikkelaar kan deze verklaring wijzigen om deze aan te passen aan wettelijke of functionele wijzigingen in de applicatie. Updates zijn beschikbaar binnen de applicatie of in de officiële publicatie ervan.",
+    "section_9_title": "9. Contact",
+    "section_9_text": "Voor vragen of opmerkingen over deze verklaring kan de gebruiker contact opnemen via het volgende e-mailadres:",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}

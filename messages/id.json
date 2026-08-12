@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — Simulasikan lokasi Anda dengan mudah",
+    "description": "Simulasikan lokasi Anda dengan mudah, cepat, dan aman. Unduh Fake GPS dan ubah lokasi GPS Anda secara instan dari mana saja di dunia."
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "Simulasikan lokasi Anda dengan mudah, cepat, dan aman.",
+    "download": "Unduh sekarang"
+  },
+  "features": {
+    "heading": "Apa itu Fake GPS?",
+    "description": "Fake GPS memungkinkan Anda memalsukan lokasi Anda di mana saja di dunia hanya dengan satu ketukan.",
+    "simulated_location": "Lokasi yang disimulasikan",
+    "simulated_location_desc": "Pilih titik mana pun di peta dan ubah posisi GPS Anda secara instan.",
+    "privacy_guaranteed": "Privasi terjamin",
+    "privacy_guaranteed_desc": "Lokasi asli Anda tidak pernah dibagikan atau disimpan. Hanya Anda yang memegang kendali.",
+    "modern_interface": "Antarmuka modern",
+    "modern_interface_desc": "Dirancang untuk menawarkan pengalaman yang intuitif dan menyenangkan."
+  },
+  "gallery": {
+    "heading": "Galeri",
+    "description": "Ini tampilan Fake GPS saat digunakan:"
+  },
+  "privacy": {
+    "heading": "Pemberitahuan Privasi",
+    "description": "Silakan baca Pemberitahuan Privasi kami untuk mengetahui bagaimana kami melindungi informasi Anda.",
+    "link": "Pemberitahuan Privasi"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – Hak cipta dilindungi undang-undang.",
+    "developer": "Dikembangkan oleh Cesar Cervantes"
+  },
+  "privacy_page": {
+    "title": "Pemberitahuan Privasi — Fake GPS",
+    "heading": "Pemberitahuan Privasi",
+    "last_updated": "Pembaruan terakhir: Oktober 2025",
+    "section_1_title": "1. Pihak yang bertanggung jawab atas pemrosesan data pribadi",
+    "section_1_text": "Pengembang aplikasi Fake GPS (selanjutnya disebut \"Aplikasi\") bertanggung jawab atas penggunaan, pengelolaan, dan perlindungan data pribadi yang dikumpulkan melaluinya, sesuai dengan Undang-Undang Federal Perlindungan Data Pribadi yang Diholding oleh Pihak Swasta beserta peraturannya.",
+    "section_2_title": "2. Data pribadi yang dikumpulkan",
+    "section_2_text_1": "Aplikasi tidak mengumpulkan, menyimpan, atau membagikan informasi pribadi pengguna, seperti nama, email, nomor telepon, atau lokasi asli.",
+    "section_2_text_2": "Selama pengoperasian, aplikasi mungkin meminta izin lokasi tiruan untuk memenuhi tujuan utamanya. Data ini hanya digunakan secara lokal di perangkat pengguna.",
+    "section_3_title": "3. Tujuan pemrosesan data",
+    "section_3_text_1": "Izin yang diminta digunakan secara eksklusif untuk:",
+    "section_3_item_1": "Mensimulasikan lokasi geografis untuk tujuan pengembangan, pengujian, atau demonstrasi.",
+    "section_3_item_2": "Meningkatkan pengalaman pengguna dalam lingkungan perangkat.",
+    "section_3_text_2": "Data tidak digunakan untuk mengidentifikasi, melacak, atau memantau pengguna.",
+    "section_4_title": "4. Transfer data pribadi",
+    "section_4_text": "Aplikasi tidak mentransfer atau menjual informasi kepada pihak ketiga. Semua informasi tetap berada di dalam perangkat dan di bawah kendali pengguna.",
+    "section_5_title": "5. Penggunaan layanan pihak ketiga",
+    "section_5_text": "Jika Anda mengintegrasikan layanan eksternal (misalnya, API atau SDK peta), layanan tersebut mungkin memiliki pemberitahuan privasi mereka sendiri. Pengguna harus meninjau dan menerima kebijakan masing-masing penyedia.",
+    "section_6_title": "6. Langkah keamanan",
+    "section_6_text": "Langkah teknis dan administratif diterapkan untuk melindungi data lokal dan mencegah akses tidak sah atau penyalahgunaan informasi di dalam perangkat.",
+    "section_7_title": "7. Hak ARCO (Akses, Rectifikasi, Pembatalan, dan Oposisi)",
+    "section_7_text": "Karena Aplikasi tidak mengumpulkan atau menyimpan data pribadi, pelaksanaan hak-hak ini tidak berlaku. Namun, pengguna dapat mencopot pemasangan aplikasi kapan saja, menghapus semua informasi lokal yang dihasilkan.",
+    "section_8_title": "8. Perubahan atas Pemberitahuan Privasi",
+    "section_8_text": "Pengembang dapat mengubah pemberitahuan ini untuk menyesuaikannya dengan perubahan hukum atau fungsional aplikasi. Pembaruan akan tersedia di dalam aplikasi atau di publikasi resminya.",
+    "section_9_title": "9. Kontak",
+    "section_9_text": "Untuk pertanyaan atau komentar apa pun mengenai pemberitahuan ini, pengguna dapat menghubungi email berikut:",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}

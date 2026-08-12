@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — Simula la tua posizione facilmente",
+    "description": "Simula la tua posizione facilmente, velocemente e in sicurezza. Scarica Fake GPS e cambia la tua posizione GPS all'istante da qualsiasi parte del mondo."
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "Simula la tua posizione facilmente, velocemente e in sicurezza.",
+    "download": "Scarica ora"
+  },
+  "features": {
+    "heading": "Cos'è Fake GPS?",
+    "description": "Fake GPS ti consente di falsificare la tua posizione ovunque nel mondo con un solo tocco.",
+    "simulated_location": "Posizione simulata",
+    "simulated_location_desc": "Seleziona qualsiasi punto sulla mappa e cambia la tua posizione GPS all'istante.",
+    "privacy_guaranteed": "Privacy garantita",
+    "privacy_guaranteed_desc": "La tua posizione reale non viene mai condivisa o memorizzata. Solo tu hai il controllo.",
+    "modern_interface": "Interfaccia moderna",
+    "modern_interface_desc": "Progettata per offrire un'esperienza intuitiva e piacevole."
+  },
+  "gallery": {
+    "heading": "Galleria",
+    "description": "Questo è il funzionamento di Fake GPS in azione:"
+  },
+  "privacy": {
+    "heading": "Informativa sulla privacy",
+    "description": "Consulta la nostra Informativa sulla privacy per sapere come proteggiamo le tue informazioni.",
+    "link": "Informativa sulla privacy"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – Tutti i diritti riservati.",
+    "developer": "Sviluppato da Cesar Cervantes"
+  },
+  "privacy_page": {
+    "title": "Informativa sulla privacy — Fake GPS",
+    "heading": "Informativa sulla privacy",
+    "last_updated": "Ultimo aggiornamento: October 2025",
+    "section_1_title": "1. Responsabile del trattamento dei dati personali",
+    "section_1_text": "Lo sviluppatore dell'applicazione Fake GPS (di seguito \"l'Applicazione\") è responsabile dell'uso, della gestione e della protezione dei dati personali raccolti tramite essa, nel rispetto della Legge federale sulla protezione dei dati personali detenuti da privati e dei suoi regolamenti.",
+    "section_2_title": "2. Dati personali raccolti",
+    "section_2_text_1": "L'Applicazione non raccoglie, memorizza o condivide le informazioni personali dell'utente, come nome, email, numero di telefono o posizione reale.",
+    "section_2_text_2": "Durante il funzionamento, l'applicazione può richiedere permessi di posizione fittizia per adempiere al suo scopo principale. Questi dati vengono utilizzati solo localmente sul dispositivo dell'utente.",
+    "section_3_title": "3. Finalità del trattamento dei dati",
+    "section_3_text_1": "I permessi richiesti vengono utilizzati esclusivamente per:",
+    "section_3_item_1": "Simulare posizioni geografiche per scopi di sviluppo, test o dimostrazione.",
+    "section_3_item_2": "Migliorare l'esperienza utente nell'ambiente del dispositivo.",
+    "section_3_text_2": "In nessun momento i dati vengono utilizzati per identificare, tracciare o monitorare l'utente.",
+    "section_4_title": "4. Trasferimento di dati personali",
+    "section_4_text": "L'Applicazione non trasferisce o vende informazioni a terzi. Tutte le informazioni rimangono all'interno del dispositivo e sotto il controllo dell'utente.",
+    "section_5_title": "5. Utilizzo di servizi di terze parti",
+    "section_5_text": "Se integri servizi esterni (ad esempio, API o SDK per mappe), questi servizi possono avere le proprie informative sulla privacy. L'utente deve consultare e accettare le relative politiche di ciascun fornitore.",
+    "section_6_title": "6. Misure di sicurezza",
+    "section_6_text": "Vengono implementate misure tecniche e amministrative per proteggere i dati locali e prevenire accessi non autorizzati o usi impropri delle informazioni all'interno del dispositivo.",
+    "section_7_title": "7. Diritti ARCO (Accesso, Rettifica, Cancellazione e Opposizione)",
+    "section_7_text": "Poiché l'Applicazione non raccoglie né memorizza dati personali, l'esercizio di questi diritti non si applica. Tuttavia, l'utente può disinstallare l'applicazione in qualsiasi momento, eliminando tutte le informazioni locali generate.",
+    "section_8_title": "8. Modifiche all'Informativa sulla privacy",
+    "section_8_text": "Lo sviluppatore può modificare questa informativa per adattarla a modifiche legali o funzionali dell'applicazione. Gli aggiornamenti saranno disponibili all'interno dell'applicazione o nella sua pubblicazione ufficiale.",
+    "section_9_title": "9. Contatti",
+    "section_9_text": "Per qualsiasi domanda o commento su questa informativa, l'utente può contattare la seguente email:",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}

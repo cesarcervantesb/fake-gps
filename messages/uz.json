@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — Joylashuvingizni osonlik bilan taqlid qiling",
+    "description": "Joylashuvingizni osonlik, tezlik va xavfsizlik bilan taqlid qiling. Fake GPS ilovasini yuklab oling va dunyoning istalgan joyidan GPS joylashuvingizni bir zahotda oʼzgartiring."
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "Joylashuvingizni osonlik, tezlik va xavfsizlik bilan taqlid qiling.",
+    "download": "Hozir yuklab oling"
+  },
+  "features": {
+    "heading": "Fake GPS nima?",
+    "description": "Fake GPS bitta bosish bilan dunyoning istalgan joyida joylashuvingizni aldash imkonini beradi.",
+    "simulated_location": "Taqlid qilingan joylashuv",
+    "simulated_location_desc": "Xaritada istalgan nuqtani tanlang va GPS pozitsiyangizni bir zahotda oʼzgartiring.",
+    "privacy_guaranteed": "Kafolatlangan maxfiylik",
+    "privacy_guaranteed_desc": "Haqiqiy joylashuvingiz hech qachon ulashilmaydi yoki saqlanmaydi. Faqat siz nazorat qilasiz.",
+    "modern_interface": "Zamonaviy interfeys",
+    "modern_interface_desc": "Intuitiv va yoqimli tajriba taklif qilish uchun ishlab chiqilgan."
+  },
+  "gallery": {
+    "heading": "Galereya",
+    "description": "Fake GPS ish vaqtidagi koʼrinishi:"
+  },
+  "privacy": {
+    "heading": "Maxfiylik bildirishnomasi",
+    "description": "Maʼlumotlaringizni qanday himoya qilishimizni bilish uchun Maxfiylik bildirishnomasini koʼrib chiqing.",
+    "link": "Maxfiylik bildirishnomasi"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – Barcha huquqlar himoyalangan.",
+    "developer": "Cesar Cervantes tomonidan ishlab chiqilgan"
+  },
+  "privacy_page": {
+    "title": "Maxfiylik bildirishnomasi — Fake GPS",
+    "heading": "Maxfiylik bildirishnomasi",
+    "last_updated": "Oxirgi yangilanish: 2025-yil oktabr",
+    "section_1_title": "1. Shaxsiy maʼlumotlarni qayta ishlash uchun masʼul shaxs",
+    "section_1_text": "Fake GPS ilovasi ishlab chiqaruvchisi (keyinchalik «Ilova» deb ataladi) uning orqali yigʻilgan shaxsiy maʼlumotlardan foydalanish, boshqarish va ularni himoya qilish uchun, Xususiy shaxslar tomonidan saqlanadigan shaxsiy maʼlumotlarni himoya qilish boʻyicha Federal qonun va uning qoidalariga muvofiq masʼuldir.",
+    "section_2_title": "2. Yigʻiladigan shaxsiy maʼlumotlar",
+    "section_2_text_1": "Ilova foydalanuvchining ismi, elektron pochtasi, telefon raqami yoki haqiqiy joylashuvi kabi shaxsiy maʼlumotlarini yigʻmaydi, saqlamaydi yoki ulashmaydi.",
+    "section_2_text_2": "Ishlash jarayonida ilova asosiy maqsadini bajarish uchun soxta joylashuv ruxsatlarini soʻrashi mumkin. Bu maʼlumotlar faqat foydalanuvchi qurilmasida mahalliy tarzda ishlatiladi.",
+    "section_3_title": "3. Maʼlumotlarni qayta ishlash maqsadi",
+    "section_3_text_1": "Soʻralgan ruxsatlar faqat quyidagilar uchun ishlatiladi:",
+    "section_3_item_1": "Ishlab chiqish, sinov yoki namoyish maqsadlari uchun geografik joylashuvlarni taqlid qilish.",
+    "section_3_item_2": "Qurilma muhitida foydalanuvchi tajribasini yaxshilash.",
+    "section_3_text_2": "Maʼlumotlar hech qachon foydalanuvchini aniqlash, kuzatish yoki nazorat qilish uchun ishlatilmaydi.",
+    "section_4_title": "4. Shaxsiy maʼlumotlarni uzatish",
+    "section_4_text": "Ilova maʼlumotlarni uchinchi shaxslarga uzatmaydi yoki sotmaydi. Barcha maʼlumotlar qurilma ichida va foydalanuvchi nazorati ostida qoladi.",
+    "section_5_title": "5. Uchinchi tomon xizmatlaridan foydalanish",
+    "section_5_text": "Agar tashqi xizmatlarni (masalan, API yoki xarita SDK) integratsiya qilsangiz, bu xizmatlarning oʻzlarining maxfiylik bildirishnomalari boʻlishi mumkin. Foydalanuvchi har bir yetkazib beruvchining tegishli siyosatlarini koʻrib chiqishi va qabul qilishi kerak.",
+    "section_6_title": "6. Xavfsizlik choralari",
+    "section_6_text": "QurilmADagi mahalliy maʼlumotlarni himoya qilish va ruxsatsiz kirish yoki maʼlumotlarni notoʻgʻri ishlatishning oldini olish uchun texnik va maʼmuriy choralar amalga oshiriladi.",
+    "section_7_title": "7. ARCO huquqlari (Kirish, Tuzatish, Bekor qilish va Qarshilik)",
+    "section_7_text": "Ilova shaxsiy maʼlumotlarni yigʻmaganligi va saqlamaganligi sababli, ushbu huquqlardan foydalanish qoʻllanilmaydi. Biroq, foydalanuvchi istalgan vaqtda ilovani oʻchirib tashlashi mumkin, bu esa yaratilgan barcha mahalliy maʼlumotlarni oʻchiradi.",
+    "section_8_title": "8. Maxfiylik bildirishnomasidagi oʻzgarishlar",
+    "section_8_text": "Ishlab chiqaruvchi ilovaning huquqiy yoki funksional oʻzgarishlariga moslashtirish uchun ushbu bildirishnomani oʻzgartirishi mumkin. Yangilanishlar ilova ichida yoki uning rasmiy nashrida mavjud boʻladi.",
+    "section_9_title": "9. Aloqa",
+    "section_9_text": "Ushbu bildirishnoma boʻyicha har qanday savollar yoki izohlar uchun foydalanuvchi quyidagi elektron pochta orqali bogʻlanishi mumkin:",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — Simulera din plats enkelt",
+    "description": "Simulera din plats enkelt, snabbt och säkert. Ladda ner Fake GPS och ändra din GPS-plats direkt varifrån som helst i världen."
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "Simulera din plats enkelt, snabbt och säkert.",
+    "download": "Ladda ner nu"
+  },
+  "features": {
+    "heading": "Vad är Fake GPS?",
+    "description": "Med Fake GPS kan du fejka din plats var som helst i världen med ett enda tryck.",
+    "simulated_location": "Simulerad plats",
+    "simulated_location_desc": "Välj en punkt på kartan och ändra din GPS-position direkt.",
+    "privacy_guaranteed": "Garanterad integritet",
+    "privacy_guaranteed_desc": "Din riktiga plats delas eller lagras aldrig. Du har kontrollen.",
+    "modern_interface": "Modernt gränssnitt",
+    "modern_interface_desc": "Designad för att erbjuda en intuitiv och trevlig upplevelse."
+  },
+  "gallery": {
+    "heading": "Galleri",
+    "description": "Så här ser Fake GPS ut i aktion:"
+  },
+  "privacy": {
+    "heading": "Integritetsmeddelande",
+    "description": "Läs vårt Integritetsmeddelande för att se hur vi skyddar din information.",
+    "link": "Integritetsmeddelande"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – Alla rättigheter förbehållna.",
+    "developer": "Utvecklad av Cesar Cervantes"
+  },
+  "privacy_page": {
+    "title": "Integritetsmeddelande — Fake GPS",
+    "heading": "Integritetsmeddelande",
+    "last_updated": "Senaste uppdatering: oktober 2025",
+    "section_1_title": "1. Ansvarig för behandling av personuppgifter",
+    "section_1_text": "Utvecklaren av applikationen Fake GPS (hädanefter \"Applikationen\") ansvarar för användning, hantering och skydd av de personuppgifter som samlas in genom den, i enlighet med den federala lagen om skydd för personuppgifter som innehas av privata parter och dess föreskrifter.",
+    "section_2_title": "2. Insamlade personuppgifter",
+    "section_2_text_1": "Applikationen samlar inte in, lagrar eller delar användarens personliga information, såsom namn, e-post, telefonnummer eller riktig plats.",
+    "section_2_text_2": "Under drift kan applikationen begära behörighet för falsk plats för att uppfylla sitt huvudsyfte. Dessa data används endast lokalt på användarens enhet.",
+    "section_3_title": "3. Syfte med behandlingen av uppgifter",
+    "section_3_text_1": "De begärda behörigheterna används uteslutande för att:",
+    "section_3_item_1": "Simulera geografiska platser för utveckling, testning eller demonstrationsändamål.",
+    "section_3_item_2": "Förbättra användarupplevelsen inom enhetsmiljön.",
+    "section_3_text_2": "Uppgifterna används aldrig för att identifiera, spåra eller övervaka användaren.",
+    "section_4_title": "4. Överföring av personuppgifter",
+    "section_4_text": "Applikationen överför eller säljer inte information till tredje part. All information förblir på enheten och under användarens kontroll.",
+    "section_5_title": "5. Användning av tjänster från tredje part",
+    "section_5_text": "Om du integrerar externa tjänster (till exempel API:er eller kart-SDK:er) kan dessa tjänster ha sina egna integritetsmeddelanden. Användaren måste läsa och acceptera respektive leverantörs tillämpliga policyer.",
+    "section_6_title": "6. Säkerhetsåtgärder",
+    "section_6_text": "Tekniska och administrativa åtgärder implementeras för att skydda lokala data och förhindra obehörig åtkomst eller missbruk av information på enheten.",
+    "section_7_title": "7. ARCO-rättigheter (Tillgång, Rättelse, Avbokning och Invändning)",
+    "section_7_text": "Eftersom Applikationen inte samlar in eller lagrar personuppgifter är utövandet av dessa rättigheter inte tillämpligt. Användaren kan dock avinstallera applikationen när som helst, vilket raderar all genererad lokal information.",
+    "section_8_title": "8. Ändringar i Integritetsmeddelandet",
+    "section_8_text": "Utvecklaren kan ändra detta meddelande för att anpassa det till lagliga eller funktionella förändringar av applikationen. Uppdateringar finns tillgängliga i applikationen eller i dess officiella publicering.",
+    "section_9_title": "9. Kontakt",
+    "section_9_text": "För frågor eller kommentarer om detta meddelande kan användaren kontakta följande e-postadress:",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}

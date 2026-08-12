@@ -1,0 +1,62 @@
+{
+  "meta": {
+    "title": "Fake GPS — Simuliere deinen Standort ganz einfach",
+    "description": "Simuliere deinen Standort einfach, schnell und sicher. Lade Fake GPS herunter und ändere deinen GPS-Standort sofort von überall auf der Welt."
+  },
+  "hero": {
+    "title": "Fake GPS",
+    "tagline": "Simuliere deinen Standort einfach, schnell und sicher.",
+    "download": "Jetzt herunterladen"
+  },
+  "features": {
+    "heading": "Was ist Fake GPS?",
+    "description": "Mit Fake GPS kannst du deinen Standort mit einem einzigen Tippen an einem beliebigen Ort der Welt fälschen.",
+    "simulated_location": "Simulierter Standort",
+    "simulated_location_desc": "Wähle einen beliebigen Punkt auf der Karte und ändere deine GPS-Position sofort.",
+    "privacy_guaranteed": "Garantierte Privatsphäre",
+    "privacy_guaranteed_desc": "Dein echter Standort wird niemals geteilt oder gespeichert. Nur du hast die Kontrolle.",
+    "modern_interface": "Moderne Oberfläche",
+    "modern_interface_desc": "Entwickelt, um ein intuitives und angenehmes Erlebnis zu bieten."
+  },
+  "gallery": {
+    "heading": "Galerie",
+    "description": "So sieht Fake GPS in Aktion aus:"
+  },
+  "privacy": {
+    "heading": "Datenschutzhinweis",
+    "description": "Bitte sieh dir unseren Datenschutzhinweis an, um zu erfahren, wie wir deine Informationen schützen.",
+    "link": "Datenschutzhinweis"
+  },
+  "footer": {
+    "copyright": "© 2026 Fake GPS – Alle Rechte vorbehalten.",
+    "developer": "Entwickelt von Cesar Cervantes"
+  },
+  "privacy_page": {
+    "title": "Datenschutzhinweis — Fake GPS",
+    "heading": "Datenschutzhinweis",
+    "last_updated": "Letzte Aktualisierung: Oktober 2025",
+    "section_1_title": "1. Verantwortliche für die Verarbeitung personenbezogener Daten",
+    "section_1_text": "Der Entwickler der Anwendung Fake GPS (im Folgenden „die Anwendung“) ist für die Nutzung, Verwaltung und den Schutz der über sie erhobenen personenbezogenen Daten verantwortlich, gemäß dem Bundesgesetz zum Schutz personenbezogener Daten von Privatpersonen und dessen Vorschriften.",
+    "section_2_title": "2. Erhobene personenbezogene Daten",
+    "section_2_text_1": "Die Anwendung erhebt, speichert oder teilt keine personenbezogenen Informationen des Nutzers, wie Name, E-Mail, Telefonnummer oder echten Standort.",
+    "section_2_text_2": "Während des Betriebs kann die Anwendung Berechtigungen für einen simulierten Standort anfordern, um ihren Hauptzweck zu erfüllen. Diese Daten werden ausschließlich lokal auf dem Gerät des Nutzers verwendet.",
+    "section_3_title": "3. Zweck der Datenverarbeitung",
+    "section_3_text_1": "Die angeforderten Berechtigungen werden ausschließlich für Folgendes verwendet:",
+    "section_3_item_1": "Simulation geografischer Standorte zu Entwicklungs-, Test- oder Demonstrationszwecken.",
+    "section_3_item_2": "Verbesserung der Benutzererfahrung innerhalb der Geräteumgebung.",
+    "section_3_text_2": "Die Daten werden niemals genutzt, um den Nutzer zu identifizieren, zu verfolgen oder zu überwachen.",
+    "section_4_title": "4. Übermittlung personenbezogener Daten",
+    "section_4_text": "Die Anwendung übermittelt keine Informationen an Dritte und verkauft sie nicht. Alle Informationen verbleiben auf dem Gerät und unter der Kontrolle des Nutzers.",
+    "section_5_title": "5. Nutzung von Diensten Dritter",
+    "section_5_text": "Wenn du externe Dienste (beispielsweise APIs oder Karten-SDKs) integrierst, können diese eigene Datenschutzhinweise haben. Der Nutzer muss die entsprechenden Richtlinien jedes Anbieters einsehen und akzeptieren.",
+    "section_6_title": "6. Sicherheitsmaßnahmen",
+    "section_6_text": "Es werden technische und organisatorische Maßnahmen umgesetzt, um lokale Daten zu schützen und unbefugten Zugriff oder Missbrauch von Informationen auf dem Gerät zu verhindern.",
+    "section_7_title": "7. ARCO-Rechte (Zugang, Berichtigung, Löschung und Widerspruch)",
+    "section_7_text": "Da die Anwendung keine personenbezogenen Daten erhebt oder speichert, findet die Ausübung dieser Rechte keine Anwendung. Der Nutzer kann die Anwendung jedoch jederzeit deinstallieren, wodurch alle erzeugten lokalen Informationen gelöscht werden.",
+    "section_8_title": "8. Änderungen des Datenschutzhinweises",
+    "section_8_text": "Der Entwickler kann diesen Hinweis ändern, um ihn an rechtliche oder funktionale Änderungen der Anwendung anzupassen. Aktualisierungen sind innerhalb der Anwendung oder in deren offizieller Veröffentlichung verfügbar.",
+    "section_9_title": "9. Kontakt",
+    "section_9_text": "Für Fragen oder Anmerkungen zu diesem Hinweis kann der Nutzer die folgende E-Mail-Adresse kontaktieren:",
+    "contact_email": "ccervantesb.dev@gmail.com"
+  }
+}
