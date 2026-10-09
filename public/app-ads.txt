@@ -301,3 +301,10 @@ acexchange.co.kr, 1562884725, RESELLER
 mman.kr, 32102, RESELLER
 myfeature.tv, N1fNlXquFCVDX3gt6MJN, RESELLER
 verve.com, 5897, RESELLER, 0c8f5958fc2d6270
+triplelift.com, 8614, RESELLER, 6c33edb13117fd86
+appnexus.com, 17973, RESELLER, f5ab79cb980f11d1
+smaato.com, 1100059345, RESELLER, 07bcf65f187117b4
+pubmatic.com, 165874, RESELLER, 5d62403b186f2ace
+adwmg.com, 159512, RESELLER, c9688a22012618e7
+bold-win.com, 1013, RESELLER, 71746737d0bab951
+my-cast.tv, 987033, RESELLER, 8c33fe1bd714ffd7
