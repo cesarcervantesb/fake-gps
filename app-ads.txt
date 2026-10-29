@@ -499,3 +499,5 @@ sharethrough.com, SniqCOMC, RESELLER, d53b998a7bd4ecd2
 indexexchange.com, 216513, RESELLER, 50b1c356f2c5c8fc
 sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd12
 bidmachine.io, 1586, RESELLER
+monetrix.ai, 10761, RESELLER
+start.io, 131192070, RESELLER
