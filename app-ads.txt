@@ -501,3 +501,4 @@ sharethrough.com, UvcAx8IL, RESELLER, d53b998a7bd4ecd12
 bidmachine.io, 1586, RESELLER
 monetrix.ai, 10761, RESELLER
 start.io, 131192070, RESELLER
+playdigo.com, 1965, RESELLER
